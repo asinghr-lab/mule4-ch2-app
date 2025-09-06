@@ -6,7 +6,7 @@
 
 	<groupId>40ca226c-5bc7-49da-a282-cb99d548e3c6</groupId>
 	<artifactId>hello-mule4-app2</artifactId>
-	<version>1.0.6-SNAPSHOT</version>
+	<version>1.0.6</version>
 	<packaging>mule-application</packaging>
 
 	<name>hello-mule4-app2</name>
