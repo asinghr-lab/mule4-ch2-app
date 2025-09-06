@@ -1,0 +1,6 @@
+Apache Maven 3.9.6 (bc0240f3c744dd6b6ec2920b3cd08dcc295161ae)
+Maven home: D:\opt\maven\v396
+Java version: 17.0.12, vendor: Eclipse Adoptium, runtime: D:\opt\jdk17
+Default locale: en_IN, platform encoding: Cp1252
+OS name: "windows 11", version: "10.0", arch: "amd64", family: "windows"
+Terminate batch job (Y/N)? Terminate batch job (Y/N)? Terminate batch job (Y/N)? 
